@@ -3,6 +3,11 @@ $colorDos: #00918e;
 $colorTres: #4dd599;
 $colorCuatro: #ffdc34;
 
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
 section{
     background-color: $colorUno;
     h1{
